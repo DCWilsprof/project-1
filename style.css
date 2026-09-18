@@ -1,0 +1,12 @@
+header {
+  background-color: #00008b;
+  justify-content: center;
+}
+.my-flex-container {
+  display: flex; /* make this element a flexbox */
+  flex-wrap; /* wrap children to next line if larger than the container */
+  justify-content: space-around; /* justify with equal space around the children */
+}
+footer {
+  background-color: blue;
+}
